@@ -603,7 +603,7 @@ Tujuannya adalah mempertahankan animasi tetap responsif.
 
 ---
 
-# 🧠 Delta Time
+# Delta Time
 
 Animasi tidak menggunakan delay berbasis:
 
@@ -621,7 +621,7 @@ Dengan pendekatan ini, kecepatan animasi tidak bergantung secara langsung pada j
 
 ---
 
-# 🖥️ Resolution Independence
+# Resolution Independence
 
 Project tidak mengunci visual pada satu resolusi.
 
@@ -646,7 +646,7 @@ Ukuran dan posisi elemen dihitung secara relatif terhadap ukuran layar.
 
 ---
 
-# 🔤 Font
+# Font
 
 Project memiliki sistem fallback font.
 
@@ -679,7 +679,7 @@ Hindari font dekoratif yang terlalu rumit karena dapat mengurangi kualitas parti
 
 ---
 
-# 🧩 Particle Text Pipeline
+# Particle Text Pipeline
 
 Text particle dibuat melalui pipeline:
 
@@ -742,7 +742,7 @@ Dengan demikian bendera dapat:
 
 ---
 
-# 🎯 Design Philosophy
+# Design Philosophy
 
 Project ini menggunakan prinsip:
 
@@ -770,7 +770,7 @@ Hal ini membuat transisi terasa sebagai satu perjalanan visual yang berkesinambu
 
 ---
 
-# 🎬 Visual Story
+# Visual Story
 
 Secara naratif, animasi menggambarkan:
 
@@ -810,7 +810,7 @@ Semua partikel membentuk:
 
 ---
 
-# 🛠️ Troubleshooting
+# Troubleshooting
 
 ## `ModuleNotFoundError: No module named 'pygame'`
 
@@ -894,7 +894,7 @@ atau gunakan system font fallback yang tersedia.
 
 ---
 
-# 🔐 Project Safety
+# Project Safety
 
 Project ini hanya melakukan:
 
@@ -917,7 +917,7 @@ Seluruh animasi berjalan secara lokal pada komputer.
 
 ---
 
-# 📁 Recommended Git Structure
+# Recommended Git Structure
 
 Jika project dikelola menggunakan Git:
 
@@ -941,60 +941,6 @@ independence_day_81/
     └── fonts/
 ```
 
-Contoh `.gitignore`:
-
-```gitignore
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Virtual Environment
-.venv/
-venv/
-env/
-
-# IDE
-.vscode/
-.idea/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Python tools
-.pytest_cache/
-.mypy_cache/
-
-# Build
-build/
-dist/
-*.egg-info/
-```
-
----
-
-# 🚀 Future Development
-
-Project dapat dikembangkan lebih jauh dengan menambahkan:
-
-* 🎆 Particle fireworks
-* 🦅 Garuda particle formation
-* 🌟 Starfield background
-* 🌊 More advanced particle physics
-* 🎵 Background music
-* 🔊 Spatial sound effects
-* 🎙️ Voice-over
-* 🎥 Cinematic camera movement
-* 📸 Screenshot mode
-* 🎬 Export animation ke video
-* 🖥️ Multi-resolution presentation mode
-* 🎨 Theme/configuration system
-
-Fitur tambahan sebaiknya tetap mengikuti prinsip utama:
-
-> **Minimalist. Cinematic. Interactive.**
-
 ---
 
 # 🇮🇩 81 TAHUN INDONESIA MERDEKA
@@ -1017,7 +963,23 @@ Dan akhirnya:
 
 ---
 
-## 👨‍💻 Development
+## Developer
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 20px; background-color: #F6F4EF; border: 1px solid #D8CFC5;">
+      <b>galhkoernia</b>
+      <br />
+      <sub>Developer</sub>
+      <br /><br />
+      <sub>
+        <a href="https://github.com/galhkoernia">GitHub</a>
+        &nbsp;&middot;&nbsp;
+        <a href="mailto:galuhkoernia@gmail.com">Email</a>
+      </sub>
+    </td>
+  </tr>
+</table>
 
 Built with:
 
